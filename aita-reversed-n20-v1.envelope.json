@@ -1,0 +1,20 @@
+{
+  "canonicalization_version": "canonical-json-exact-bytes-v1",
+  "cipher_suite": "AES-256-GCM",
+  "ciphertext_bytes": 259759,
+  "ciphertext_file": "aita-reversed-n20-v1.sealed",
+  "ciphertext_sha256": "aad2080f05f0ffbb6169b8fae82838211ec9a75c51562da942351d72941a6e54",
+  "correction_contact": "research@antisycophancy.ai",
+  "disclosure": "Public reconstructable-key anti-indexing friction only; not confidentiality, DRM, rights clearance, or effective retraction.",
+  "key_check": "b6f7d48d2da24e81",
+  "key_part_a": "VBgmoN3vEAcQePuQkzOOif",
+  "key_part_b_length": 21,
+  "key_part_b_locator": "Anti-Sycophancy paper supplementary material, AITA sealed-pack appendix",
+  "key_scheme": "public-base64url-split-22-21-v1",
+  "nonce_b64url": "0NbhVIB5mFD0RTiY",
+  "pack_id": "aita-reversed-n20",
+  "pack_version": "v1",
+  "pair_count": 20,
+  "plaintext_identity_sha256": "b88b4fcf2ba528f689020b8074f426b815def2ed31f4d020df73ad3d58fd2c1a",
+  "schema": "antisycophancy-sealed-pack-v1"
+}

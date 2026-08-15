@@ -1,0 +1,23 @@
+.DS_Store
+.env
+*.key
+*.pem
+
+# Part B belongs only in the paper supplement.
+*part-b*
+paper/
+
+# Never commit opened or source-form benchmark material here.
+plaintext/
+opened/
+decrypted/
+og.csv
+flip.csv
+flip.labels.json
+selection.yaml
+MANIFEST.json
+DATASET_CARD.md
+
+# Local verification and run output.
+results/
+*.tmp
